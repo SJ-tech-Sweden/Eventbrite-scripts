@@ -1,0 +1,6 @@
+eventbrite:
+  api_token:
+  event_id:
+  event_timezone: Europe/Stockholm
+  #Write time as 11, 30
+  event_time: 11
